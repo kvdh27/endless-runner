@@ -33,7 +33,9 @@ h1 {
     bottom: 0;
     width: 50px;
     height: 50px;
-    background-color: #ff6347;
+    background-image: url('kip.png'); /* Afbeelding van de kip */
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 #obstacle {
@@ -41,8 +43,7 @@ h1 {
     bottom: 0;
     width: 30px;
     height: 30px;
-    background-color: #000;
-    right: -30px;
+    background-color: #000; /* Obstakel blijft een zwart blok */
 }
 
 p {
