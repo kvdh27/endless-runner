@@ -43,7 +43,9 @@ h1 {
     bottom: 0;
     width: 30px;
     height: 30px;
-    background-color: #000; /* Obstakel blijft een zwart blok */
+    background-image: url('ei.png'); /* Afbeelding van de kip */
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 p {
