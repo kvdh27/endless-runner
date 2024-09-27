@@ -21,8 +21,8 @@ h1 {
 
 #gameArea {
     position: relative;
-    width: 800px;
-    height: 400px;
+    width: 1000px;
+    height: 500px;
     background-color: #add8e6;
     overflow: hidden;
     border: 2px solid #000;
@@ -43,7 +43,7 @@ h1 {
     bottom: 0;
     width: 30px;
     height: 30px;
-    background-image: url('ei.png'); /* Afbeelding van de kip */
+    background-image: url('ei.png'); /* Afbeelding van het ei */
     background-size: cover;
     background-repeat: no-repeat;
 }
